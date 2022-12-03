@@ -1,0 +1,16 @@
+{
+  "name": "sam-website",
+  "version": "1.0.0",
+  "description": "This is Sam's website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Niazi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.5.4"
+  }
+}

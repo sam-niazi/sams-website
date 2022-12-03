@@ -1,0 +1,88 @@
+html, body {
+
+    background-color: white;
+    background-image: url( https://pixelz.cc/wp-content/uploads/2018/11/american-football-uhd-4k-wallpaper.jpg );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: 'Helvetica';
+    margin: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+
+}
+
+h1 {
+
+    background-color: aquamarine;
+    width: 100vw;
+    height: 64px;
+    color: black;
+    line-height: 64px;
+
+}
+
+p {
+
+    color: white;
+
+}
+
+hat {
+
+    opacity: 0%;
+    background-color: white;
+    border: solid 3px black;
+    border-radius: 16px;
+    display: block;
+    margin: auto;
+    margin-bottom: 16px;
+    width: 512px;
+
+}
+
+hat hat-name {
+
+    width: 512px;
+    height: 32px;
+    line-height: 32px;
+    color: grey;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+hat hat-price {
+
+    display: block;
+    height: 32px;
+    line-height: 32px;
+    color: green;
+    font-size: 24px;
+
+}
+
+hat hat-desc {
+
+    margin-bottom: 8px;
+    color: black;
+    font-size: 18px;
+
+}
+
+@keyframes fade-in {
+
+    from {
+
+        margin-left: -512px;
+        opacity: 0%;
+
+    } to {
+
+        margin-left: calc( ( 100vw / 2 ) - 256px );
+        opacity: 100%;
+
+    }
+    
+}

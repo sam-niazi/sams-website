@@ -1,0 +1,22 @@
+{
+    "hats": [
+        {
+            "name": "Kansas City Chiefs",
+            "image": "https://www.howardstern.com/wp-content/uploads/sites/3/2022/09/mens-new-era-red-kansas-city-chiefs-2022-sideline-9fifty-ink-dye-snapback-hat_ss5_p-4687652pv-3u-1d1vf4jjjog1q2cjrzj5v-pbvsabfwbr9f2079o7gd.jpg?crop=6px%2C149px%2C900px%2C599px&resize=700%2C466&quality=100",
+            "description": "This hat represents the Kansas City Chiefs.",
+            "price": 24.99
+        },
+        {
+            "name": "Minnesota Vikings",
+            "image": "https://fanatics.frgimages.com/minnesota-vikings/mens-new-era-purple-minnesota-vikings-omaha-59fifty-fitted-hat_pi2539000_ff_2539493_full.jpg?_hv=2&w=900",
+            "description": "This hat represents the Minnesota Vikings.",
+            "price": 39.99
+        },
+        {
+            "name": "Cincinnati Bengals",
+            "image": "https://images.footballfanatics.com/cincinnati-bengals/mens-new-era-olive-cincinnati-bengals-color-pack-59fifty-fitted-hat_pi4673000_altimages_ff_4673523-883c03762b408c0bd13aalt2_full.jpg?_hv=2&w=900",
+            "description": "This hat represents the Cincinnati Bengals.",
+            "price": 64.99
+        }
+    ]
+}
