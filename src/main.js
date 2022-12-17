@@ -1,4 +1,4 @@
-const response = await fetch( '../src/caps.json' ) 
+const response = await fetch( 'src/caps.json' ) 
 const Hats     = await response.json()
 
 function preload() {
