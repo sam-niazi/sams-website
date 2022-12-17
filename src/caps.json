@@ -17,6 +17,30 @@
             "image": "https://images.footballfanatics.com/cincinnati-bengals/mens-new-era-olive-cincinnati-bengals-color-pack-59fifty-fitted-hat_pi4673000_altimages_ff_4673523-883c03762b408c0bd13aalt2_full.jpg?_hv=2&w=900",
             "description": "This hat represents the Cincinnati Bengals.",
             "price": 64.99
+        },
+        {
+            "name": "ISHOWSPEED",
+            "image": "https://ih1.redbubble.net/image.3108453098.9115/ssrco,dad_hat,product,FFFDF5:8c3db69414,front_three_quarter,square,1000x1000-bg,f8f8f8.jpg",
+            "description": "This is a ISHOWSPEED hat.",
+            "price": 29.99
+        },
+        {
+            "name": "ISHOWSPEEDFLASH",
+            "image": "https://ih1.redbubble.net/image.3417691810.7176/ssrco,baseball_cap,product,FFFFFF:97ab1c12de,front,square,600x600-bg,f8f8f8.jpg",
+            "description": "This is a ISHOWSPEEDFLASH hat.",
+            "price": 34.99
+        },
+        {
+            "name": "LAMELOBALL",
+            "image": "https://i.ebayimg.com/images/g/sboAAOSw18ViBFoq/s-l1600.jpg",
+            "description": "LAMELOISSODRIPPY.",
+            "price": 24.99
+        },
+        {
+            "name": "Cobra tate",
+            "image": "https://i.etsystatic.com/36395590/r/il/aaeabc/4044578398/il_570xN.4044578398_kso7.jpg",
+            "description": "Cobra is the TOP G",
+            "price": 10000000000000000000
         }
     ]
 }
