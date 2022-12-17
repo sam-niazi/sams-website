@@ -30,17 +30,31 @@
             "description": "This is a ISHOWSPEEDFLASH hat.",
             "price": 34.99
         },
-        {
-            "name": "LAMELOBALL",
-            "image": "https://i.ebayimg.com/images/g/sboAAOSw18ViBFoq/s-l1600.jpg",
-            "description": "LAMELOISSODRIPPY.",
-            "price": 24.99
-        },
+        
         {
             "name": "Cobra tate",
             "image": "https://i.etsystatic.com/36395590/r/il/aaeabc/4044578398/il_570xN.4044578398_kso7.jpg",
             "description": "Cobra is the TOP G",
-            "price": 10000000000000000000
-        }
+            "price": 5000
+        },
+        {
+            "name": "NFL New Era Allover 59FIFTY Fitted Hat",
+            "image": "https://cdn.shopify.com/s/files/1/0069/3442/9751/products/60188100_1_1024x1024.jpg?v=1656531430",
+            "description": "nothing.",
+            "price": 54.99
+
+        },
+        {
+        "name": "chapeau d'amour",
+            "image": "https://eoouae45rgb.exactdn.com/2009/06/mostexpensivehat.jpg?strip=all&lossy=1&quality=75&ssl=1",
+            "description": "Its the hat of love.",
+            "price": "2.7 million"
+        },
+        {
+            "name": "Ferrari F399 F1 Car Embroidered 1999 Champion Red Cap Hat Very Rare",
+                "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxStartSD0FzVx-xnKIXhwe3qhMlO3dNaC9dBITOSEafxAGPfWHYpC6mRIcxheazfshGspBu9XpZB_wOq7nlBXLsaX6zoebmx8FaMmzrEc",
+                "description": "very rare.",
+                "price": "79.99"
+            }
     ]
 }

@@ -5,7 +5,7 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    font-family: 'Helvetica';
+    font-family: 'Amazon Ember';
     margin: auto;
     overflow-x: hidden;
     overflow-y: auto;
@@ -15,7 +15,7 @@ html, body {
 
 h1 {
 
-    background-color: aquamarine;
+    background-color: transparent;
     width: 100vw;
     height: 64px;
     color: black;
@@ -32,7 +32,7 @@ p {
 hat {
 
     opacity: 0%;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border: solid 3px black;
     border-radius: 16px;
     display: block;
