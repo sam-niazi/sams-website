@@ -1,6 +1,9 @@
 const response = await fetch( './src/caps.json' ) 
 const Hats     = await response.json()
 
+let priceTable = document.getElementById('price');
+//priceTable.style.display = 'none';
+
 function preload() {
 
     const images = []
@@ -56,4 +59,10 @@ const EndElement = document.createElement( 'p' )
 EndElement.innerHTML = `This is my website. To visit Nike, click <a href='https://www.nike.com/'>this</a>. If you want to visit Lids, click <a href='https://www.lids.com/'>here</a>.`
 
 Body.appendChild( EndElement )
+Body.appendChild(priceTable);
+priceTable.style.display = 'inline-block';
+
+
+
+//priceTable.style.display = 'inline-block';
 
